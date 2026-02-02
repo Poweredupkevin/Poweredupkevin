@@ -1,7 +1,7 @@
-# Hello, I'm Kevin
+# Hello, I'm Kevin. 
 <a href="https://www.linkedin.com/in/kevinjpowersjr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+Looking forward to proving what I can do and help others gain valuable experience!
 
 I am driven to growing in cybersecurity so my research and implementation strategy is to find ways to speed up my learning and prove what I can do better.
 
